@@ -1,4 +1,4 @@
-### Hi there, I'm Siddarth Sharma 👋
+### Hi there, I'm [Siddarth Sharma](https://animasugit.com) 👋
 
 ## I'm a Freelance Developer and a Student!
 - 🔭 I’m currently working on a [Social Network](https://divuture.com)!
