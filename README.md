@@ -1,7 +1,7 @@
 ### Hi there, I'm [Siddarth Sharma](https://animasugit.com) 👋
 
 ## I'm a Freelance Developer and a Student!
-- 🔭 I’m currently working on a [Social Network](https://divuture.com)!
+- 🔭 I’m currently working on a [Social Network](https://dewrapp.com)!
 - 🌱 I’m currently learning python, react native and ruby on rails 🤣
 - 👯 I’m looking for any job opportunities for 2021.
 - 🥅 2020-21 Goals: Contribute more to open source projects and learn more technologies.
