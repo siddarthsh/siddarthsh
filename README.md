@@ -2,7 +2,7 @@
 
 ## I'm a Freelance Developer and a Student!
 - 🔭 I’m currently working on a [Social Network](https://dewrapp.com)!
-- 🌱 I’m currently learning typescript and postgresql 🤣
+- 🌱 I’m currently learning solidity 🤣
 - 🥅 2020-21 Goals: Contribute more to open source projects and learn more technologies.
 - ⚡ Fun fact: I love to play video games and listen to music.
 
