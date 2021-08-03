@@ -1,6 +1,6 @@
 ### Hi there, I'm [Siddarth Sharma](https://animasugit.com) 👋
 
-## I'm a FullStack Developer and a Student!
+## I'm a FullStack Developer!
 - 🔭 I’m currently working on a [Discord Bot](https://darker.one)!
 - 🌱 I’m currently learning solidity 🤣
 - 🥅 2020-21 Goals: Contribute more to open source projects and learn more technologies.
