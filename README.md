@@ -1,4 +1,4 @@
-### Hi there, I'm [Siddarth Sharma](https://animasugit.com) 👋
+### Hi there, I'm [Ghosty](https://animasugit.com) 👋
 
 ## I'm a FullStack Developer!
 - 🔭 I’m currently working on a [Discord Bot](https://darker.one)!
