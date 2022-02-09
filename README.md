@@ -1,7 +1,6 @@
 ### Hi there, I'm [Ghosty](https://0xghosty.com) 👋
 
 ## I'm a FullStack Developer!
-- 🔭 I’m currently working on a [Discord Bot](https://darker.one)!
 - 🌱 I’m currently learning solidity 🤣
 - 🥅 2020-21 Goals: Contribute more to open source projects and learn more technologies.
 - ⚡ Fun fact: I love to play video games and listen to music.
