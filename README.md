@@ -1,4 +1,4 @@
-### Hi there, I'm [Ghosty](https://animasugit.com) 👋
+### Hi there, I'm [Ghosty](https://0xghosty.com) 👋
 
 ## I'm a FullStack Developer!
 - 🔭 I’m currently working on a [Discord Bot](https://darker.one)!
